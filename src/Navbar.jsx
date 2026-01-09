@@ -20,7 +20,7 @@ const Navbar = () => {
     }
   }, [darkMode]);
   return (
-    <div className='w-full flex items-center justify-between  px-1 sm:px-4 border-b-2/ border-b-secondary/ mb-10 pb-3'>
+    <div className='w-full flex items-center justify-between  px-1 sm:px-4 border-b-2/ border-b-secondary/ mb-1 pb-3'>
         <div className='flex  items-center gap-3'>
           <img className='size-9 mt-0.5 border-2 border-ui-color/20 p-0.5 rounded-xl' src="/public/Untitled-1 [Recovered].png" alt="" />
           <div className='w-1 h-1 bg-invert rounded-3xl'></div>
