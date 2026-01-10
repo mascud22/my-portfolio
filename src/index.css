@@ -2,10 +2,7 @@
 *{
      font-family: "DM Sans", sans-serif;
 }
-@import "tailwindcss";
-*{
-  font-family: "DM Sans", sans-serif;
-}
+
 
 @theme {
   --color-primary: #000819; /* blue-600 */
@@ -31,14 +28,14 @@
 :root{
  --color-primary: #000000; /* blue-600 */
   --color-next-prim: #060606; /* purple-600 */
-  --color-secondary: #151515; /* purple-600 */
+  --color-secondary: #131b27; /* purple-600 */
   --color-third: #1e1e1e; /* amber-500 */
-  --color-fourth: #2d2d2d;
+  --color-fourth: #2d2d2dcd;
   --color-text: #ffffff;
   --color-text-secondary: #e3e3e3;
   --color-text-third: #bfbfbf;
-  --color-ui-color: #4E67EB;
-  --color-ui-color-text: #F0F4FF;
+  --color-ui-color: #2788f7;
+  --color-ui-color-text: #eef5ff;
   --color-invert: #dfe5ef;
   --color-invert-text: #000819;
   --color-pending: #f34444;
